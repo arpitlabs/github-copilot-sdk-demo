@@ -19,9 +19,7 @@ github-copilot-sdk-demo/
 ├── Program.cs                    # Interactive chat application
 ├── copilot-demo.csproj          # .NET 10.0 project configuration
 ├── .gitignore                   # Git ignore rules for .NET projects
-├── README.md                    # This file
-├── MESSAGE_SENDING_GUIDE.md     # Detailed message sending guide
-└── QUICKSTART.md                # Quick setup guide
+└── README.md                    # This file
 ```
 
 ## Prerequisites
