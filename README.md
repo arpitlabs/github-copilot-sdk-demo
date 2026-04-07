@@ -42,7 +42,7 @@ Before running this application, ensure you have:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/github-copilot-sdk-demo.git
+   git clone https://github.com/arpitlabs/github-copilot-sdk-demo.git
    cd github-copilot-sdk-demo
    ```
 
