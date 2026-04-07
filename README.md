@@ -40,18 +40,20 @@ Before running this application, ensure you have:
 
 ## Installation & Setup
 
-1. **Clone the repository**
+1. VS Code > New Folder > Terminal
+
+2. **Clone the repository**
    ```bash
    git clone https://github.com/arpitlabs/github-copilot-sdk-demo.git
    cd github-copilot-sdk-demo
    ```
 
-2. **Restore dependencies**
+3. **Restore dependencies**
    ```bash
    dotnet restore
    ```
 
-3. **Build the project**
+4. **Build the project**
    ```bash
    dotnet build
    ```
